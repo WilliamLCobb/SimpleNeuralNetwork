@@ -1,0 +1,18 @@
+Metadata-Version: 1.1
+Name: SimpleNeuralNetworks
+Version: 0.4.0
+Summary: A simple implemetation of a neural networking library
+Home-page: https://github.com/WilliamLCobb/SimpleNeuralNetworks
+Author: William Cobb
+Author-email: williamlewiscobb@gmail.com
+License: MIT
+Description: UNKNOWN
+Keywords: Simple Neural Network Machine Learning
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Operating System :: OS Independent

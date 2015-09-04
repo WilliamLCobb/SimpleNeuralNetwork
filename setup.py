@@ -8,13 +8,13 @@ from os import path
 here = path.abspath(path.dirname(__file__))
 
 setup(
-    name='SimpleNeuralNetwork',
+    name='SimpleNeuralNetworks',
 
-    version='0.4.0',
+    version='0.4.1',
 
     description='A simple implemetation of a neural networking library',
 
-    url='https://github.com/WilliamLCobb/SimpleNeuralNetwork',
+    url='https://github.com/WilliamLCobb/SimpleNeuralNetworks',
 
     author='William Cobb',
     author_email='williamlewiscobb@gmail.com',
@@ -41,7 +41,7 @@ setup(
     keywords='Simple Neural Network Machine Learning',
 
 
-    packages=['SimpleNeuralNetwork'],
+    packages=['SimpleNeuralNetworks'],
 
     #install_requires=['numpy'],
 )

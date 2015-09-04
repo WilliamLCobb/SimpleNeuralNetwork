@@ -1,0 +1,8 @@
+README.txt
+setup.py
+SimpleNeuralNetwork/SimpleNeuralNetwork.py
+SimpleNeuralNetwork/__init__.py
+SimpleNeuralNetwork.egg-info/PKG-INFO
+SimpleNeuralNetwork.egg-info/SOURCES.txt
+SimpleNeuralNetwork.egg-info/dependency_links.txt
+SimpleNeuralNetwork.egg-info/top_level.txt
